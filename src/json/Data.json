@@ -1,0 +1,53 @@
+{
+    "descriptions": [
+        {
+            "id": 1,
+            "text": "Ayo, rasakan sensasi bermain game seru di StylePLAY!",
+            "isBold": true
+        },
+        {
+            "id": 2,
+            "text": "Nikmati fasilitas lengkap, mulai dari PS5 dan PC gaming dengan performa maksimal, hingga suasana nyaman yang bikin betah. Yuk, ajak teman-temanmu dan jadikan momen gaming makin seru!"
+        },
+        {
+            "id": 3,
+            "text": "Pesan sekarang di StylePLAY dan buktikan sendiri pengalaman bermain yang beda dari yang lain!"
+        }
+    ],
+    "services": {
+        "items": [
+            {
+                "id": 1,
+                "name": "PC Gaming",
+                "path": "pc-gaming",
+                "price": 25000,
+                "image": "https://y6a2n7m3.rocketcdn.me/wp-content/uploads/2022/08/ilustrasi-pc-gaming-ella-don-unsplash.jpg",
+                "description": "PC gaming high-end dengan prosesor Intel i9 dan kartu grafis RTX 4080, monitor 240Hz, serta kursi gaming ergonomis."
+            },
+            {
+                "id": 2,
+                "path": "ps5-gaming",
+                "name": "PlayStation 5",
+                "price": 30000,
+                "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2020/11/28/867090688.jpg",
+                "description": "PlayStation 5 terbaru dengan dual controller dan berbagai game eksklusif yang bisa Anda nikmati bersama teman-teman."
+            },
+            {
+                "id": 3,
+                "path": "ps5-netflix",
+                "name": "PlayStation + Netflix",
+                "price": 35000,
+                "image": "https://www.blibli.com/friends-backend/wp-content/uploads/2024/02/B100789-1-Cara-Memutar-Neflix-di-PS-5-1024x538.jpg",
+                "description": "Nikmati pengalaman bermain di PlayStation 5 dengan akses Netflix, untuk hiburan tanpa batas setelah sesi gaming!"
+            },
+            {
+                "id": 4,
+                "path": "vr-gaming",
+                "name": "VR Gaming",
+                "price": 40000,
+                "image": "https://images-cdn.ubuy.co.in/64c4b28cca6cc852f116d192-restored-oculus-quest-64gb-vr-headset.jpg",
+                "description": "Rasakan dunia virtual yang nyata dengan headset VR canggih, didukung game dan pengalaman interaktif terkini!"
+            }
+        ]
+    }
+}
