@@ -59,7 +59,7 @@ const FormBookingPage = () => {
 
   return (
     <div className="container mx-auto p-8 bg-color-secondary text-color-primary min-h-screen">
-      <h1 className="text-3xl font-bold mb-6">
+      <h1 className="text-3xl font-bold mb-6 text-center">
         Form Booking {formData.nameProduct}
       </h1>
       {service ? ( // Memastikan layanan ditemukan
